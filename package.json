@@ -3,7 +3,7 @@
   "node":"20.15.0"
  }, 
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "chart.js": "^4.4.8",
